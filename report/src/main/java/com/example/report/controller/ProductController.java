@@ -1,5 +1,6 @@
 package com.example.report.controller;
 
+import com.example.report.dto.ReportDTO;
 import com.example.report.model.*;
 import com.example.report.repo.*;
 import org.springframework.beans.factory.annotation.Autowired;

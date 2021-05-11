@@ -1,4 +1,4 @@
-package com.example.report.controller;
+package com.example.report.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
